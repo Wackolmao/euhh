@@ -1,6 +1,2 @@
-lib/** linguist-vendored
-dos-games/** linguist-vendored
-flash-games/** linguist-vendored
-html5-games/** linguist-vendored
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
