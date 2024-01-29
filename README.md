@@ -46,3 +46,4 @@ data:application/xhtml+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLT
 ```
 Data URLs work in the same way as HTTP(S) URLs, they can be opened directly in a new tab. (Just copy and paste the code above into a new tab's address bar and press enter)
 
+# euhh
